@@ -8,4 +8,4 @@
 wiznote/wizserver:latest
 jlesage/firefox:latest
 jeessy/ddns-go:latest
-b3log/siyuan:v3.1.15
+b3log/siyuan:latest
