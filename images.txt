@@ -1,2 +1,5 @@
-frigate
-siyuan
+wiznote/wizserver:latest
+jlesage/firefox:latest
+jeessy/ddns-go:latest
+b3log/siyuan
+blakeblackshear/frigate
