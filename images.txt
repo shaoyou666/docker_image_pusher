@@ -1,2 +1,1 @@
-b3log/siyuan:v3.1.15
-ghcr.io/blakeblackshear/frigate
+frigate
