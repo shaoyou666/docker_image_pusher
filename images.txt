@@ -2,4 +2,4 @@
 #jlesage/firefox:latest
 #jeessy/ddns-go:latest
 #b3log/siyuan
-ghcr.io/blakeblackshear/frigate
+frigate:latest
