@@ -1,5 +1,5 @@
 #wiznote/wizserver:latest
 #jlesage/firefox:latest
 #jeessy/ddns-go:latest
-#b3log/siyuan
+b3log/siyuan
 ghcr.io/blakeblackshear/frigate:stable
